@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asikkali.github.io/sip/sitemap.xml
